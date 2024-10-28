@@ -57,7 +57,7 @@
     },
     "devDependencies": {
         "@commitlint/config-conventional": "19.1.0",
-        "@types/node": "18.19.26",
+        "@types/node": "20.17.2",
         "@types/yargs": "17.0.32",
         "@vitest/coverage-v8": "1.4.0",
         "commitlint": "19.2.1",
