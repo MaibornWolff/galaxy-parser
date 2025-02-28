@@ -35,9 +35,9 @@
         "generate-output-format-markdown": "npm run build && node dist/docs/output-format/generate-output-format-md.js"
     },
     "dependencies": {
-        "ajv": "^8.14.0",
-        "p-map": "^7.0.1",
-        "tree-sitter": "0.20.6",
+        "ajv": "8.14.0",
+        "p-map": "7.0.1",
+        "tree-sitter": "0.22.4",
         "tree-sitter-bash": "0.20.5",
         "tree-sitter-c": "0.20.8",
         "tree-sitter-c-sharp": "0.20.0",
@@ -56,14 +56,14 @@
         "yargs": "17.7.2"
     },
     "devDependencies": {
-        "@commitlint/config-conventional": "19.1.0",
-        "@types/node": "18.19.26",
-        "@types/yargs": "17.0.32",
-        "@vitest/coverage-v8": "1.4.0",
-        "commitlint": "19.2.1",
-        "husky": "9.0.11",
-        "lint-staged": "15.2.2",
-        "typescript": "5.3.3",
+        "@commitlint/config-conventional": "19.7.1",
+        "@types/node": "18.19.78",
+        "@types/yargs": "17.0.33",
+        "@vitest/coverage-v8": "1.6.1",
+        "commitlint": "19.7.1",
+        "husky": "9.1.7",
+        "lint-staged": "15.4.3",
+        "typescript": "5.8.2",
         "vitest": "1.4.0",
         "xo": "0.58.0"
     },
